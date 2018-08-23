@@ -20,26 +20,26 @@ description: Learn how to send secure instant messages, Kaizala Actions, attachm
 
 # Kaizala management portal
 
-Microsoft Kaizala is a secure chat and messaging app that enables mobile users to send instant messages, Kaizala Actions, attachments such as pictures, documents, videos, audios and more. Microsoft Kaizala also lets you get instant feedback from your users about anything you want. With Kaizala Actions, you can send out polls and surveys to a few users or thousands, and once they respond, all responses are automatically aggregated and presented in an easy to view report, to help with decision making.
+Microsoft Kaizala is a secure chat and messaging app that enables mobile users to send instant messages, Kaizala Actions and attachments such as pictures, documents, videos, audios and more. Microsoft Kaizala also lets you get instant feedback from your users about anything you want. With Kaizala Actions, you can send out polls and surveys to any number of users (a few or thousands). All subsequent responses are automatically aggregated and presented in an easy-to-view report, which helps in decision making.
   
 [Download Kaizala for your mobile phone](https://go.microsoft.com/fwlink/p/?linkid=851074), and learn about how to use the mobile app here: [About the Kaizala mobile app](kaizala-mobile-app.md).
   
 ## Access the Kaizala management portal
 
-To access the Kaizala management portal, sign in with your Azure active directory account here: [Kaizala Management Portal](https://go.microsoft.com/fwlink/p/?linkid=852455). Once you're able to login, you'll be required to add your phone number to Kaizala. Once your phone number is authenticated, you can manage Kaizala in the management portal. 
+To access the Kaizala management portal, sign in with your Azure active directory account here: [Kaizala Management Portal](https://go.microsoft.com/fwlink/p/?linkid=852455). Once you are successfully logged in, you'll be asked to add your phone number to Kaizala. After your phone number gets authenticated, you will be able to manage Kaizala via the management portal. 
   
 > [!IMPORTANT]
-> You can have more than one phone number added to the Azure Active Directory admin account. You can switch between these phone numbers in **Settings** to manage Kaizala groups and users respectively.
+> You can add more than one phone number to the Azure Active Directory admin account. You can switch between these phone numbers in **Settings** to manage Kaizala groups and users respectively.
   
 ## Kaizala management portal
 
-The Kaizala management portal is a web based portal that provides management, reporting and extensibility capabilities for Kaizala. With the Kaizala management portal, your organization can quickly onboard thousands or millions of users to Kaizala, including employees, partners, vendors, or customers, with just phone number. You can create Kaizala groups and add users, and also view out-of-the-box reports for Kaizala Actions such as Jobs and Surveys. You need to have a Kaizala subscription before you can use Kaizala. First step login with your Azure Active Directory account. After successful login add your Kaizala registered phone number. Once your phone number is authenticated, you can manage Kaizala features.
+The Kaizala management portal is a web based portal that provides access to management, reporting and extensibility features of Kaizala. In order to use the portal, you will need a subscription. Using it, your organization can quickly onboard thousands, even millions of users to Kaizala, including employees, partners, vendors, or customers, using just a phone number. You can create Kaizala groups, add users and also view out-of-the-box reports for Kaizala Actions such as Jobs and Surveys. 
   
 The Kaizala management portal can be used by the following users:
   
-- **IT administrators**  Use the portal to set up groups and manage users within these groups in a secure and compliant manner. For example, an administrator can add or remove users from a specific group, or remove a user from all organization groups, so that when an employee leaves, the person doesn't remain a member of organization groups, and doesn't have access to organization data. 
+- **IT administrators**  Can use the portal to set up groups and manage users within these groups in a secure and compliant manner. For example, an administrator can add or remove users from a specific group, or remove a user from all organization groups; this is especially useful when an employee leaves and the organization has to ensure that they don't have access to organization groups and/or data, post-departure.
     
-- **Developers**  Use the portal to either create a new Kaizala Action, or customize a Kaizala Action. Developers can also add a new Connector to integrate their internal or external systems with Kaizala. 
+- **Developers**  Can use the portal to either create a new Kaizala Action, or customize it. Developers can also add new connectors to integrate their internal or external systems with Kaizala. 
     
 - **Business User**  Can view built-in reports, with real-time data updates, for Kaizala Actions shared in organization groups. 
     
