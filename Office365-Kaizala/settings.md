@@ -20,7 +20,7 @@ description: Use the Kaizala Settings page to map your Kaizala registered phone 
 
 # Kaizala settings
 
-The **Kaizala Settings** page lets you map your Kaizala registered phone numbers to logged in the Office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more.
+The **Kaizala Settings** page lets you map your Kaizala registered phone numbers in the Office 365 account for which you would like to manage Groups, Actions, Connectors, View reports and do more.
   
 ## Add phone number
 
@@ -30,6 +30,6 @@ To add a phone number in the Kaizala management portal:
     
 2. Tap or click **Phone number**. Enter the phone number and click **Generate PIN**.
     
-3. Once you get the PIN on your mobile phone, return to this screen and enter the PIN and click **Verify PIN**.
+3. Once you get the PIN on your mobile phone, return to this screen, enter the PIN and click **Verify PIN**.
     
 
