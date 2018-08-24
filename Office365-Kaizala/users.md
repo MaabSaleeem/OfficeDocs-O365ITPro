@@ -20,32 +20,34 @@ description: Learn how to create Kaizala users so they can send instant messages
 
 # Kaizala users
 
-Before you can send instant messages, pictures, documents and setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
+Before you can send instant messages, pictures and documents, or setup a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, check out [Kaizala groups](groups.md).
   
 ## View all users in an organization
 <a name="__top"> </a>
 
-On the Kaizala management portal, from the left navigation pane, choose **Users**. You'll see a list of all users that have possible access to your organization. This list contains all users who have been either been: 
+On the Kaizala management portal, from the left navigation pane, choose **Users**. You'll see a list of all users that have possible access to your organization. This list contains all users who have either been: 
   
-- uploaded directly through the **Upload User** process or by being a member of any organization groups mapped to your organization. 
+- uploaded directly through the **Upload User** process
+or 
+- by being a member of any organization groups mapped to your organization. 
     
 You can also select up to 4 columns that can be shown for each user, by clicking on **More** \> **Select Columns**. 
   
 ![Screenshot: Add a Kaizala user's phone number](media/a2709c0c-0672-44a6-8918-388dab316b2a.png)
   
-Kaizala organization admins can define and manage user attributes for the organization. You can add custom user attributes (employee ID, manager, etc) in the Kaizala Management Portal which makes it easier for admins and other users to identify a user.
+Kaizala organization admins can define and manage user attributes for the organization. You can add custom user attributes (employee ID, manager, etc) via the Kaizala Management Portal which makes it easier for admins and other users to identify a user.
   
 ### Set up attributes for all users in the organization
 
 - Click or tap **Users** \> **More**, and then select **Change Attributes** from the drop-down menu. 
     
-- To add a new attribute, click on **Add New** and then select from a range of pre-defined suggested attributes or add a new attribute. 
+- To add a new attribute, click on **Add New** and then select from a range of pre-defined suggested attributes, or add a new attribute. 
     
     ![Screenshot: Change attributes on Kaizala users, like name, phone number and job title.](media/661ce7d7-0ef7-4c40-a850-31fa44aed4ee.png)
   
-  - For a list item selected from suggested attributes, you can select whether an attribute is mandatory or optional for users to enter data.
+  - For a list item selected from suggested attributes, you can select whether an attribute is mandatory or optional for users to enter data for.
     
-  - For a custom attribute, you can, enter the name of the attribute, select the type of attribute (string, number, Yes/No and date/time), and select whether the attribute is mandatory or optional for users to enter data.
+  - For a custom attribute, you can enter the name of the attribute, select the type of attribute (string, number, Yes/No and date/time), and select whether the attribute is mandatory or optional for users to enter data for.
     
   - Once you've made changes to the attribute, click **+** to add it to the list, or **-** to remove it 
     
@@ -68,7 +70,7 @@ If you want to add several users without using the comma separated list, you can
     
     ![Screenshot: Bulk add users to Kaizala](media/8f4f5b63-ae6e-4aac-959f-a9022612a058.png)
   
-- On the **Upload Users History** page, you can check on the status of the uploaded file. Click **Refresh** to get the latest status. If the status is **Completed** you can find the updated user list on the Users page. 
+- On the **Upload Users History** page, you can check the status of the uploaded file. Click **Refresh** to get the latest status. If the status is **Completed** you will find the updated user list on the Users page. 
     
 > [!NOTE]
 > You can update info for an existing user by re-uploading the file with updated data for the user. 
@@ -80,7 +82,7 @@ If you want to add several users without using the comma separated list, you can
     
     ![Screenshot: Kaizala import history page](media/23cbc5fc-5b57-4ceb-ad9f-e165b52ebcbc.png)
   
-- On the **View Import History** page, you can find a list of all user upload operations. Each list item has following info: 
+- On the **View Import History** page, you can find a list of all user upload operations. Each list item has the following info: 
     
   - **File Name**
     
@@ -92,9 +94,9 @@ If you want to add several users without using the comma separated list, you can
     
   - **Processing** - the file has been sent for processing and hasn't been uploaded yet. 
     
-  - **Completed** - the file has been either successfully uploaded, or has been uploaded partially due to some errors. 
+  - **Completed** - the file has  either been successfully uploaded, or has been uploaded partially due to some errors. 
     
-  - **Failed** - the file hasn't wasn't uploaded successfully. Download the error log file for the upload to check out any issues. 
+  - **Failed** - the file wasn't uploaded successfully. Download the error log file for the upload to check out any issues. 
     
   - **Download** - clicking the icon downloads the original uploaded file. 
     
@@ -105,7 +107,7 @@ If you want to add several users without using the comma separated list, you can
     
     ![Screenshot: Create a new request to export Kaizala users](media/2f444aab-c793-478a-8197-6d9c331bc47b.png)
   
-- On the **Export History** page, you can check on the status of the export request. Click **Refresh** to get the latest status. If the status is Completed you can download the requested file by clicking on the download icon beside the specific request 
+- On the **Export History** page, you can check the status of the export request. Click **Refresh** to get the latest status. If the status is Completed, you can download the requested file by clicking on the download icon beside the specific request 
     
 ## Find history of all export users operation
 <a name="__top"> </a>
@@ -126,7 +128,7 @@ If you want to add several users without using the comma separated list, you can
     
   - **Queued** - the request has been queued. 
     
-  - **Completed** - the file has been either successfully exported, or has been exported partially due to some errors. 
+  - **Completed** - the file has either been successfully exported, or has been exported partially due to some errors. 
     
   - **Failed** - the file wasn't exported successfully. Download the error log file for the upload to check out any issues. 
     
@@ -153,13 +155,13 @@ To find a detailed view of a user's profile:
 ## Kaizala user roles
 <a name="__top"> </a>
 
-There are 3 different user roles in Kaizala. Here are the available roles and what people assigned to them can do.
+There are 3 different user roles in Kaizala. Here are the available roles and what people assigned to them can do:
   
 |||
 |:-----|:-----|
 |**Role** <br/> |**What they do in Office 365** <br/> |
 |**Kaizala Organization Administrator** <br/> |Kaizala organization admin is a user who can manage Kaizala for your organization. The built-in Office 365 role,  * global admin *  is the equivalent of the Kaizala organization admin. Office 365 global admins will have access and ability to manage all organization groups even when they aren't direct members or admins of the group.  <br/> |
-|**Kaizala Group Administrator** <br/> |Kaizala Group administrator is a Kaizala Group member with special privileges. Unlike an organization admin, they are required to be a admin of the group they are handling. Group admins can perform all the actions a organization admin can, but only on the groups they are explicitly made an admin of.  <br/> |
+|**Kaizala Group Administrator** <br/> |Kaizala Group administrator is a Kaizala Group member with special privileges. Unlike an organization admin, they are required to be an admin of the group they are handling. Group admins can perform all the actions an organization admin can, but only on the groups they are explicitly made an admin of.  <br/> |
 |**Member** <br/> |A Kaizala user with no special privileges. They can only take part in 1:1 and group communication and view attributes of their own groups and conversations. They can't add or remove other members from the group.  <br/> |
    
 ### What can the Kaizala user roles do?
